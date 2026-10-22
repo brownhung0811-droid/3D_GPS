@@ -1,0 +1,6 @@
+{
+  "name": "台灣 3D 旅遊導覽與觀光集章冊",
+  "description": "探索全台100大精選觀光景點，沈浸式3D互動地圖導覽、重磅紀念印章收集、集章冊護照與智慧行程規劃。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
